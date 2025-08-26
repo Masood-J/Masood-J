@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Masood  
 
-💻 **Front-End Developer** | Building responsive & modern web apps with **Next.js + TailwindCSS**  
-
+🌟 A passionate **Front-End Developer** who loves crafting clean, responsive, and user-friendly web experiences
 ---
 
 ### 🧑‍💻 About Me
