@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Masood  
 
-🌟 A passionate **Front-End Developer** who loves crafting clean, responsive, and user-friendly web experiences
+ A passionate **Front-End Developer** who loves crafting clean, responsive, and user-friendly web experiences
 ---
 
 ### 🧑‍💻 About Me
 - 🚀 Currently working with **Next.js, TailwindCSS, and modern JavaScript**  
-- 🎨 Passionate about providing users with a good **UI/UX** 
+- 🎨 Focusing on providing users with a good **UI/UX** 
 - 📚 Also exploring **C++** for problem-solving and systems programming   
 
 ---
