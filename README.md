@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Masood  
+# Hi, I'm Masood  
 
- A passionate **Front-End Developer** who loves crafting clean, responsive, and user-friendly web experiences
+ Just a casual Front End React Developer
 ---
 
 ### 🧑‍💻 About Me
