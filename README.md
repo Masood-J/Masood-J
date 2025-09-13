@@ -1,6 +1,6 @@
 # Hi, I'm Masood  
 
- Just a casual Front End React Developer
+ I am an aspiring Front End React Developer
 ---
 
 ### 🧑‍💻 About Me
