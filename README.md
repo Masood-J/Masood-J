@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- Frameworks & Libraries -->
-<img src="https://skillicons.dev/icons?i=next,react,tailwind,scss,css,html" /><br/>
+<img src="https://skillicons.dev/icons?i=next,tailwind,js,css,html" /><br/>
 
 <!-- Other Tools -->
 <img src="https://skillicons.dev/icons?i=figma,git,github,webstorm,vscode,cpp,python" />
