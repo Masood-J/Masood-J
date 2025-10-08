@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=next,react,tailwind,scss,css,html" /><br/>
 
 <!-- Other Tools -->
-<img src="https://skillicons.dev/icons?i=figma,git,github,webstorm,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,webstorm,vscode,cpp,python" />
 
 </div>
 
