@@ -1,12 +1,12 @@
-# Hi, I'm Masood  
+# This is Masood  
 
- I am an aspiring Front End React Developer
+I'm Mainly Learning Web Development 
 ---
 
 ### 🧑‍💻 About Me
-- 🚀 Currently working with **Next.js, TailwindCSS, and modern JavaScript**  
-- 🎨 Focusing on providing users with a good **UI/UX** 
-- 📚 Also exploring **C++** for problem-solving and systems programming   
+- Doing Front End Developemnt with **Next.js, TailwindCSS, and modern JavaScript**  
+- Love learning Linux/Android as a hobby.
+- Working on my **C++** skills for problem-solving and systems programming.   
 
 ---
 
@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=next,tailwind,js,css,html" /><br/>
 
 <!-- Other Tools -->
-<img src="https://skillicons.dev/icons?i=figma,git,github,webstorm,vscode,cpp,python" />
+<img src="https://skillicons.dev/icons?i=figma,git,webstorm,vscode,cpp,python" />
 
 </div>
 
