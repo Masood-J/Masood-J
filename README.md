@@ -19,11 +19,9 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-
-![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masood-J&layout=compact&theme=radical)
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood-J&layout=compact&theme=radical" height="180" />
 </div>
 
 ---
