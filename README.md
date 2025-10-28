@@ -1,8 +1,3 @@
-# This is Masood  
-
-I'm Mainly Learning Web Development 
----
-
 ### 🧑‍💻 About Me
 - Doing Front End Developemnt with **Next.js, TailwindCSS, and modern JavaScript**  
 - Love learning Linux/Android as a hobby.
