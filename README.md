@@ -19,9 +19,20 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood-J&layout=compact&theme=radical" height="180" />
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&theme=radical" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood-J&layout=compact&theme=radical" height="180px"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
