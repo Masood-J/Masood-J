@@ -17,22 +17,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&theme=radical" height="180px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood-J&layout=compact&theme=radical" height="180px"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
