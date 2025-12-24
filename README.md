@@ -19,6 +19,6 @@
 ---
 
 ### Profile Views
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Masood-J.Masood-J)
+![Masood-J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masood-J&show_icons=true&count_private=true&theme=radical)
 
 ---
